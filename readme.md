@@ -14,7 +14,7 @@ It is recommended to watch the video tutorial, which is available at:
 Sardjoe Mishre, Aashley, et al. "The infrared thermography toolbox: an open-access semi-automated segmentation tool for  extracting skin temperatures in the thoracic region including supraclavicular brown adipose tissue", Journal of medical systems (2022)
 
 ## Installation
-- The folder that contains the IRT-toolbox application (IRT-toolbox.exe) can be directly used after downloading the application without installing any additional software.
+- The IRT-toolbox application (IRT-toolbox.exe) can be directly used after downloading the application without installing any additional software.
 - The IRT-toolbox python source scripts require the applications: "ExifTool" and "Elastix"
 - Exiftool is required to read metadata from the thermal images. Installation instructions can be found here: https://exiftool.org/install.html
 - The Elastix application is required for the registration step. Installation instructions can be found here: https://elastix.lumc.nl/download.php
